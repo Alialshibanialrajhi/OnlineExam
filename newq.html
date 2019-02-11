@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Add Record Form</title>
+</head>
+<body>
+<h1>please enter your new question</h1>
+<form action="ADDQ.php" method="post">
+<p>
+        <label for="num">question N#:</label>
+        <input type="text" name="num" id="num">
+    </p>
+    <p>
+        <label for="question">question:</label>
+        <input type="text" name="question" id="question">
+    </p>
+    <p>
+        <label for="ans1"> ANSWER 1:</label>
+        <input type="text" name="ans1" id="ans1">
+    </p>
+    <p>
+        <label for="ans2"> ANSWER 2:</label>
+        <input type="text" name="ans2" id="ans2">
+    </p>
+	 <p>
+        <label for="ans3"> ANSWER 3:</label>
+        <input type="text" name="ans3" id="ans3">
+    </p>
+	<p>
+        <label for="true_ans">RIGHT ANSWER :</label>
+        <input type="text" name="true_ans" id="true_ans">
+		must be exact same text as any of the above answers 1, 2 or 3.
+    </p>
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>
