@@ -1,0 +1,194 @@
+   body{
+        font-size: 16px;
+        font-family: "Times New Roman", Times, serif;
+        margin-top: 30px;
+        background-image:url(images/16-150p.jpg);
+	background-size:100%;
+        background-repeat: repeat-y;
+        
+        
+        }
+
+* {
+    box-sizing: border-box;
+}
+
+
+ header{
+           background-image:url(images/299.jpg);
+           background-size: 150px;
+           background-repeat: repeat-x;
+            text-align: center;
+            border: 1px solid #ffffff;
+            color: #000066;;
+            border-radius: 2px;
+            width: 1000px;
+            margin-top: 30px;
+            margin-left:auto;
+	    margin-right:auto;
+            padding: 50px;
+            font-size: 1.9em;
+            font-weight: bold;
+            box-shadow: rgba(0,0,0,0.14902) 2px 1px 1px 2px,rgba(0,0,0,0.09804) 2px 1px 2px 2px;
+             position: relative;
+           -moz-border-radius:    10px;
+           -webkit-border-radius: 10px;
+           
+        }
+        #p1{
+     
+            font-size: 18px;
+            text-align: center;
+            border: 1px solid #ebebeb;
+            box-shadow: 2px 5px 5px rgba(0,0,0,.25);
+            color: #000066;
+            border-radius: 2px;
+            width: 50%;
+            height: 50px;
+            margin-left:auto;
+	    margin-right:auto;
+            padding: 10px;
+            border: 1px solid #FFFFFF;
+        }
+       
+#form-user{
+   
+    background-color: #ebebeb;
+           color: #000066;
+            width: 300px;
+            padding:50px;
+            height: 250px;
+             border: 1px solid #ffffff;
+            border-radius: 5px;
+            margin-top: 30px;
+            margin-left:auto;
+	    margin-right:auto;
+            box-shadow: 2px 5px 5px rgba(0,0,0,.25);
+            -moz-border-radius:    10px;
+            -webkit-border-radius: 10px;
+            }
+            
+            
+  .container{
+            width: 50%;
+            margin: 10px auto;
+            overflow: auto;
+            padding: 15px;
+            margin: auto;
+            border: 3px solid #FFFFFF;
+            background-color: #99ccff;
+            
+        }  
+        
+        .bk-foto{
+            border-radius: 30px;
+            border: 1px solid #FFFFFF;
+            box-shadow: 2px 5px 5px rgba(0,0,0,.25);
+            background-color: #ebebeb;
+            width: 65%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .option{
+            margin-left: 27%;
+            overflow: auto;
+            padding: 0px;
+          
+        }
+        .first_submit{
+             
+         
+            width: 190px;
+            height: 45px;
+            cursor: pointer;
+            margin-top: 10px;
+            background: #33b5e5;
+            color: #FFFFCC;
+            box-shadow: 0px 2px 5px rgba(0,0,0,.25);
+            
+            
+        } 
+        .f_submit{
+            cursor: pointer;
+            width: 190px;
+            height: 45px;
+            margin-top: 5px;
+            background: #33b5e5;
+            color: #FFFFCC;
+            box-shadow: 0px 2px 5px rgba(0,0,0,.25);
+        }
+        .sec_submit{
+             
+            background: #1fb5bf;
+            color: #FFFFCC;
+            width: 150px;
+            height: 50px;
+            cursor: pointer;
+            margin-left: 10px;
+            margin-top: 5px;
+            
+           
+        }
+       
+        .third_submit{
+            background: #1fb5bf;
+            color: #FFFFCC;
+            width: 150px;
+            height: 50px;
+            cursor: pointer;
+            margin-top: 20px;
+         
+        }   
+        input[type="text"]{
+            width: 200px;
+            height: 30px;
+            margin: 5px;
+            margin-left: 1px;
+        }
+       
+        .buttons{
+            width: 500px;
+            margin-left: auto;
+            margin-right: auto ;
+           
+        }
+        
+        .name{
+            float: left;
+            margin-bottom: 10px;
+            font-weight: bold;
+            
+        }
+  
+        table{
+            border-collapse: collapse;
+            width: 600px;
+            height: 200px;
+            margin-top: 50px;
+            margin-left: auto;
+            margin-right: auto;
+            
+            
+        }
+        table, th, td {
+    border: 1px solid #1fb5bf;
+    vertical-align: central;
+    text-align: center;
+    padding: 20px;
+    color:#000066;
+    
+}
+h1{
+            font-size: 1.7em;
+            text-align: center;
+            border: 1px solid #ebebeb;
+            box-shadow: 2px 5px 5px rgba(0,0,0,.25);
+            border-radius: 5px;
+            width: 1000px;
+            height: 70px;
+            margin-left:auto;
+	    margin-right:auto;
+            padding: 15px;
+            border: 1px solid #FFFFFF;
+
+}
